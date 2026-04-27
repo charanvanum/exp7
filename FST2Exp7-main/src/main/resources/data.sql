@@ -1,0 +1,3 @@
+-- Data is seeded by DataInitializer with BCrypt passwords:
+-- user1 / user123 -> ROLE_USER
+-- admin1 / admin123 -> ROLE_ADMIN, ROLE_USER
